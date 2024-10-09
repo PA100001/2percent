@@ -1,0 +1,68 @@
+.switch-width {
+    width: 5rem !important;
+}
+
+.btn-sample-file{
+    background-color: #0088cc !important;
+}
+
+.dashboard-caption .btn-box{
+    min-width: 35px;
+    padding: 0 15px;
+    background-color: #fff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    text-transform: capitalize;
+    border: 2px solid var(--primary-color);
+}
+
+.import-export-dropdown{
+    background-color: #fff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-transform: capitalize;
+    border: 2px solid var(--primary-color);
+    padding: 3px 5px;
+}
+
+.import-export-menu .menu .menu-item .menu-link:hover .svg-icon span svg path{
+    transition: color .2s ease;
+    background-color: var(--bs-primary-light);
+    color: var(--bs-primary);
+}
+
+.table tr td .form-control.column-address-css {
+    /* padding: 0px 0px 50px; */
+    height: 80px;
+}
+
+/* Invoice Css start */
+.btn-invoice-desc-add {
+    border: 2px solid var(--primary-color) !important;
+    background-color: #fff !important;
+    -webkit-border-radius: 5px !important;
+    border-radius: 5px !important;
+}
+.btn-invoice-desc-add i{
+    color: var(--primary-color) !important;
+}
+/* Invoice Css end */
+
+.btn-google-calendar {
+    background-color: #dbe3e7 !important;
+}
+
+.parent-label-text{
+    left: -10px !important;
+}
+
+.button-gray-out{
+    opacity: 0.5 !important;
+}
+
+.top-bar-report-dd .select2-container{
+    width: 200px !important;
+}
